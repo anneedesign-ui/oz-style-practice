@@ -3,9 +3,9 @@ import { contents } from "./assets/data/data";
 import Content from "./components/Content";
 import Header from "./components/Header";
 
-// Styled Components 정의
+// 기존 SCSS와 동일한 구조
 const MainContainer = styled.main`
-  /* App.scss의 전역 스타일이 필요하다면 여기에 추가 */
+  /* 기존과 동일하게 최소한의 스타일만 */
 `;
 
 const Section = styled.section`
